@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: blue;
+    --secondary: red;
+}
+
+body {
+    font-family: 'League Gothic', sans-serif;
+    background-color: black;
+}
+
+#navbar {
+    background-color: orange;
+    color: var(--secondary);
+    font-size: 70px;
+}
+
+.navbar-brand {
+    font-size: 70px;
+}
+
+
+.card-header {
+    background-color: var(--primary);
+    color: var(--secondary);
+}
+
+.card-body {
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+.container {
+    margin: 150px auto;
+    justify-content: space-evenly;
+    display: flex;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
