@@ -24,7 +24,11 @@ jest (npm install jest) https://www.npmjs.com/package/jest
 Use node index.js from a terminal/CMD/Git Bash prompt to begin the inquirer portion of this. It will ask you a series of questions for an Employee, which is used to build the inter, Manager and Engineer objects to the html via generatePage.js 
 
       
-![xcvxcv](/assets/npmTest.png)
+![Testingfun](/assets/npmTest.png)
+
+![requiredModules](/assets/requirePhoto.png)
+
+![writefile](/assets/WriteFile.png)
 
 
 ## License 
