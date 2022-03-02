@@ -3,6 +3,8 @@
 
 ## Description 
 This application was created using node.js, Inquirer module and jest module. This was a way to generate a HTML page with form data from node.js using Inquirer module, I've enjoyed the last two assignments with node.js.  
+
+![FinalPage](/assets/TeamPage.png)
  
 ## Table of Contents
 * [Installation](#installation)
